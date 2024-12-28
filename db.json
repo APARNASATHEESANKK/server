@@ -1,0 +1,76 @@
+{
+  "allVideos": [
+    {
+      "captions": "Aadujeevitham",
+      "AuthorName": "Benyamin",
+      "price": "280",
+      "imageUrl": "http://aksharathalukal.in/wp-content/uploads/2019/04/IMG_20190407_111831.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/zCXvhESBQvU",
+      "id": 1
+    },
+    {
+      "captions": "Pathummayude aadu",
+      "AuthorName": "Vaikom Muhammad Basheer",
+      "price": "130",
+      "imageUrl": "https://www.zyberbooks.com/wp-content/uploads/2021/03/PATHUMMAYUDE-AADU.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/cdIVvMaxwyY",
+      "id": 2
+    },
+    {
+      "captions": "Randamoozham",
+      "AuthorName": "M T Vasudevan Nair",
+      "price": "458",
+      "imageUrl": "https://m.media-amazon.com/images/I/41mgMMbX3zL._SY445_SX342_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/krXgueLZdq4",
+      "id": 3
+    },
+    {
+      "captions": "Aval",
+      "AuthorName": "Bobby Jose Kattikadu",
+      "price": "225",
+      "imageUrl": "https://www.mbibooks.com/mbibooks_details/uploads/2017/11/16420_15377.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/ytAteJ0P4qw",
+      "id": 4
+    },
+    {
+      "captions": "Manju",
+      "AuthorName": "M T Vasudevan Nair",
+      "price": "135",
+      "imageUrl": "https://www.mbibooks.com/mbibooks_details/uploads/2017/09/16411_12833.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/yX06jphzUgI",
+      "id": 5
+    },
+    {
+      "captions": "Randidangazhi",
+      "AuthorName": "Thakazhi Sivasankara Pillai",
+      "price": "150",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460745660l/12588437.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/efHNX-Vx_ik",
+      "id": 6
+    },
+    {
+      "captions": "Chemmeen",
+      "AuthorName": "Thakazhi Sivasankara Pillai",
+      "price": "225",
+      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.qLJkCQliSQkwTu1w-2Qc1wAAAA&pid=Api&P=0&h=180",
+      "youtubeUrl": "https://www.youtube.com/embed/vmaISZOskJM",
+      "id": 7
+    },
+    {
+      "captions": "Harry Potter",
+      "AuthorName": "J.K.Rowling",
+      "price": "6527",
+      "imageUrl": "https://i1.wp.com/geekdad.com/wp-content/uploads/2013/07/hpnc6.jpg?resize=1575%2C2400&ssl=1",
+      "youtubeUrl": "https://www.youtube.com/embed/360NyhAaDyU",
+      "id": 8
+    },
+    {
+      "captions": "Nirmala",
+      "AuthorName": "Premchand",
+      "price": "250",
+      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.G89tbStI926XGJu0hS-jUgAAAA&pid=Api&P=0&h=180",
+      "youtubeUrl": "https://www.youtube.com/embed/LMb_93G7dYA",
+      "id": 9
+    }
+  ]
+}
